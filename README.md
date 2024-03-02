@@ -1,1 +1,18 @@
-# Client-Server-Development
+# Client-Server-Development README
+
+# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the # database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+#    The maintainability, readility and adaptability of my software is ensured by keeping code structural designs as simple as possible, including ample comments to ensure that future developers will     #     be able to understand how various module, or segments, of code operate and avoiding the introduction of too many dependencies between the various software features. When developing software with    #     these considerations in mind you will have increased reusability of functions and classes that will allow for more oppurtunities to upscale software packages and allow greater flexibility should the 
+#     product direction change during development. For example, this CRUD Python module could easily be adapted to not only operate on another server/port but also with minor adjustments could be utilized #     to perform CRUD operations on a different database with different document, database object, structures.
+
+# How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ 
+# from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+#    When approaching the problem as explained by Grazioso Salvare, I initially determined which features would be desirable within their software package followed by researching and developing each 
+#     feature from simplist, or most fimilar, to most complex, or least fimilar. This is an important way of progressing through development since it allows the vision of the product to bloom early on. 
+#     The development process for this project was different from that of other courses in that it required additional research for the usage of the Python hmtl class functions and Python-to-MongoDB 
+#     operators during the implementation process but the additional research required did allow for greater results in code implementation. 
+
+# What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+#    The role of a computer scientist is to bring a scientific perspective to problems that face organizations and find ways to solve these problems, often through the introduction of technology, business #     procedures and through the development of specially made software packages. This role is essential in large organizations where due to the high volume of business that takes place poor              #     technology, a lack of business procedure, or faulty software can wreak havoc upon the profitability, the maintainability and the reputation of an enterprise. A software product, such as the one 
+#     developed for Grazioso Salvare, will increase the efficiency of an organization since it presents the users with an inventory of all the animals present at their partners' animal shelters and an 
+#     automated filtering system will present them with the dogs qualified for the various disciplines of search-and-rescue with a geolocation map marker that will make finding the candidate for their 
+#     program exceptionally simple.
